@@ -17,3 +17,4 @@ comment = *"comment text"*
 | --- | --- |
 | [@chrisdburr](https://github.com/chrisdburr) *Instructor* | *"It's been a real pleasure putting this course together, and I'm looking forward to speaking with everyone."* |
 | Insert username here | Insert comment here |
+| [@AshmitaRandhawa](https://github.com/AshmitaRandhawa) *Participant* | *" Attending this course on RRI has been a great experience, particularly as we have had the opportunity to learn from so many different people working in incredibly diverse backgrounds"* |
